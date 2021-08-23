@@ -5,3 +5,7 @@ public static void main()
 //code or logic are written here
 
 }
+static public void main(string...args)
+{
+system.out.println("Hello github repos classroom");
+}

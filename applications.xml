@@ -8,4 +8,11 @@ public static void main()
 static public void main(string...args)
 {
 system.out.println("Hello github repos classroom");
+
 }
+public static void main(string[] args){
+int number = reader.nextint();
+system.out.print.ln("you entere:" + number);
+}
+}
+
